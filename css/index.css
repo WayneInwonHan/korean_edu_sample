@@ -115,6 +115,10 @@ left: 0;
     -o-transition: all .5s ease-out;
 }
 
+#menu li:hover {
+  color: purple;
+}
+
 a {
     list-style: none;
     text-decoration: none;
